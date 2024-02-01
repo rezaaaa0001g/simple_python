@@ -1,6 +1,8 @@
 # Python program to solve N Queen
 # Problem using backtracking
 
+import cv2
+
 #number of Queen
 global N
 N = 4
