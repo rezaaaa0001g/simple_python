@@ -2,6 +2,7 @@
 # Problem using backtracking
 
 import cv2
+import imread from cv2
 
 #number of Queen
 global N
