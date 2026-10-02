@@ -7,6 +7,7 @@ import imread from cv2
 #number of Queen
 global N
 N = 4
+M = 2
  
 def printSolution(board):
     for i in range(N):
